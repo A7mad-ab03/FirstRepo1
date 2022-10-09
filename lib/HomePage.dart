@@ -74,7 +74,7 @@ class _HomePageState extends State<HomePage> {
                   "AHMED DEV",
                   style: TextStyle(
                       fontStyle: FontStyle.italic,
-                      fontSize: 32,
+                      fontSize: 31,
                       color: Color.fromARGB(255, 236, 242, 236),
                       fontWeight: FontWeight.bold),
                 ),
@@ -87,7 +87,7 @@ class _HomePageState extends State<HomePage> {
         ),
 
         // Container(
-          
+
         //   // width: 200, height: 200,
         //   //     color: Colors.red,
         //   margin: EdgeInsets.only(left: 22, bottom: 200, top: 50),
